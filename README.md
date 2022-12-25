@@ -1,4 +1,5 @@
 # Demo for a typical Spring Cloud Architecture on VMware Tanzu Application Platform
+This should be learned during after you TAP-up-and-running step. You get TAP1.2+ up and running and then run some of web apps. After that let us run this typical SpringCloud App on TAP.
 
 ![](architecture-diagram.png)
 
